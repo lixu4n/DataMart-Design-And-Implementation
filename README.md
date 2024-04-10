@@ -37,5 +37,16 @@ data, and selecting features for further analysis.
 
 ## Team Members
 
+@Lixu4n 
+CELESTE DUGUAY
+Lixu4n • Git Repository Owner
 
+@Aissatou123
+AISSATOU KANGOU DIOME
+Aissatou123 • Collaborator
+
+@Michel-Ako
+Michel-Ako • Collaborator
+
+ 
 
